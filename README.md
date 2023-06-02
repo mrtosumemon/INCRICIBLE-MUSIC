@@ -1,6 +1,6 @@
 ### 🥀 𝐁𝐞𝐬𝐭 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐒𝐮𝐩𝐬𝐫𝐟𝐚𝐬𝐭 𝐚𝐧𝐝 𝐒𝐦𝐚𝐫𝐭 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭 𝐒𝐨𝐮𝐫𝐜𝐞 𝐅𝐨𝐫 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐆𝐫𝐨𝐮𝐩𝐬 𝐚𝐧𝐝 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ✨...
-_________𝐂𝐡𝐞𝐫𝐫𝐲 𝐁𝐨𝐭________________
-<p align="center"><a href="https://t.me/I_LOVE_YOU_MY_HEARTBEET"><img src="https://graph.org/file/842fce6b11fec8c23933c.jpg"></a></p>
+_________𝘿𝙊𝙍𝘼 𝙓 𝙈𝙐𝙎𝙄𝘾 💙🖤________________
+<p align="center"><a href="https://t.me/jenny_x_01"><img src="https://graph.org/file/cea26e48787ae6e49ab73.jpg"></a></p>
 
 ##  Deploy to Heroku  🤝
 
