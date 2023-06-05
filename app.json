@@ -1,7 +1,7 @@
 {
-    "name": "___𝐂𝐡𝐞𝐫𝐫𝐲__",
+    "name": "𝐈ɴᴄʀɪᴄɪʙʟ𝐄 𝐌ᴜsɪ𝐂",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/631baec8d89879eefe156.jpg",
+    "logo": "https://graph.org/file/b7c2df41279e6d787c3d9.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "23854524",
+        "value": "863616",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "e765ba734e8c485b1b1f72dff94127de",
+        "value": "d4fb9f1a28a828fb42b05f2362ee8760",
         "required": true
       },
       "BOT_TOKEN": {
@@ -30,12 +30,12 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority",
+        "value": "",
         "required": false
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko koi farak ni padega",
-        "value": "cherry-musicBot",
+        "value": "ɪɴᴄʀɪᴄɪʙʟᴇ x ᴍᴜsɪᴄ",
         "required": false
       },
       "SPOTIFY_CLIENT_ID": {
@@ -50,7 +50,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "1952625698",
+        "value": "6141620368",
         "required": true
       },
       "STRING_SESSION": {
@@ -75,12 +75,12 @@
       },
       "SUPPORT_GROUP": {
         "description": "Fill the link of your group..",
-        "value": "https://t.me/ISHQ00_I",
+        "value": "https://t.me/incricible",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Fill the link of channel.",
-        "value": "https://t.me/XD_CUTETY",
+        "value": "https://t.me/INCRICIBLE_NETWORK",
         "required": false
       }
     },
