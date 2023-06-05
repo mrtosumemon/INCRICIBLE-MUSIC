@@ -30,17 +30,7 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
                 text="𝐔𝐩𝐝𝐚𝐭𝐞𝐬 📡", url=f"{config.SUPPORT_CHANNEL}"
             ),
         ],
-        [
-
-            InlineKeyboardButton(
-
-                text="➕ 𝑶𝑾𝑵𝑬𝑹 𝑿𝑫 ➕",
-
-                url=f"https://t.me/jenny_x_01 ?startgroup=true",
-
-            )
-
-        ],
+        
      ]
     return buttons
 
@@ -63,17 +53,6 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
             InlineKeyboardButton(
                 text="𝐔𝐩𝐝𝐚𝐭𝐞𝐬 📡", url=f"{config.SUPPORT_CHANNEL}"
             )
-        ],
-        [
-
-            InlineKeyboardButton(
-
-                text="➕ 𝑶𝑾𝑵𝑬𝑹 𝑿𝑫 ➕",
-
-                url=f"https://t.me/jenny_x_01 ?startgroup=true",
-
-            )
-
         ],
      ]
     return buttons
