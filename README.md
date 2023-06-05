@@ -8,7 +8,7 @@ _________𝘿𝙊𝙍𝘼 𝙓 𝙈𝙐𝙎𝙄𝘾 💙🖤________________
 - Fork the repo then 
 - Tap below botton ☟︎︎︎☟︎︎︎☟︎︎︎ for deploy [𝐂𝐡𝐞𝐫𝐫𝐲𝐁𝐨𝐭](https://t.me/RABTAROBOT)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://dashboard.heroku.com/new?template=https://github.com/CuteBacchaXD/cherry-musicbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://dashboard.heroku.com/new?template=https://github.com/mrtosumemon/INCRICIBLE-MUSIC)
 
 
 
