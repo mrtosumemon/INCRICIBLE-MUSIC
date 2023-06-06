@@ -27,7 +27,7 @@ SONG_DOWNLOAD_DURATION = int(
 
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", None))
 
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "INCRICIBLE MUSIC")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "DORA MUSIC")
 
 OWNER_ID = list(
     map(int, getenv("OWNER_ID", None).split())
@@ -39,16 +39,16 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/mrtosumemon/INCRICIBLE-MUSIC",
+    "https://github.com/Kingxd021/cherry-musicbot",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/INCRICIBLE_NETWORK")
+    "SUPPORT_CHANNEL", "https://t.me/jenny_support")
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/INCRICIBLE")
+    "SUPPORT_GROUP", "https://t.me/jenny_support")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 
@@ -106,11 +106,11 @@ clean = {}
 
 autoclean = []
 
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/bc181eeb445e212ede8d4.mp4")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/cea26e48787ae6e49ab73.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://graph.org/file/b33024f02693f2738e635.jpg"),
+    "https://graph.org/file/cea26e48787ae6e49ab73.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
